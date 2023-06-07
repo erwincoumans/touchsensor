@@ -1,7 +1,7 @@
-# Blender MTL File: 'touch_sensor_base.blend'
+# Blender MTL File: 'touchsensor_sensor_tip.blend'
 # Material Count: 1
 
-newmtl None.001
+newmtl None.005
 Ns 499.999983
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
